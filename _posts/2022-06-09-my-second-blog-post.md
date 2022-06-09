@@ -1,4 +1,4 @@
 ---
-title: "Website"
+title: "POSTS"
 date: 2022-06-09
 ---
